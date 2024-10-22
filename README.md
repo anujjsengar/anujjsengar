@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anujjsengar
 - 👀 I’m interested in...CODING
 - 🌱 I’m currently learning ..PYTHON,JAVASCRIPT,HTML,PHP,CSS
-- 💞️ I’m looking to collaborate on ...IBM
 - 📫 How to reach me INSTAGRAM: anujjsengar
 - EMAIL ID: kumar.anuj.28082004@gmail.com
 
