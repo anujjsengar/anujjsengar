@@ -2,7 +2,7 @@
 - 👀 I’m interested in...CODING
 - 🌱 I’m currently learning ..PYTHON,JAVASCRIPT,HTML,PHP,CSS
 - 📫 How to reach me INSTAGRAM: anujjsengar
-- EMAIL ID: kumar.anuj.28082004@gmail.com
+- EMAIL ID: anuj.kumar.official2004@gmail.com
 
 <!---
 anujjsengar/anujjsengar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
